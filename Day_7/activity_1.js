@@ -7,3 +7,8 @@ let book = {
 }
 
 console.log(book);
+
+// task 2
+
+console.log(`Title of book : ${book.title}`)
+console.log(`Author of book : ${book["author"]}`)
